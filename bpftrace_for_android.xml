@@ -2,7 +2,7 @@
 <manifest>
   <remote fetch="https://github.com/michalgr" name="michalgr"/>
 
-  <project name="platform_external_bison" path="external/bison" remote="michalgr" revision="bpftrace_for_android"/>
+  <project name="platform_external_bison" path="external/bison" remote="michalgr" revision="bpftrace_for_android_take2"/>
   <project name="platform_external_flex" path="external/flex" remote="michalgr" revision="bpftrace_for_android"/>
 
   <remove-project name="platform/external/bcc"/>
@@ -11,8 +11,8 @@
   <remove-project name="platform/external/elfutils"/>
   <project name="platform_external_elfutils" path="external/elfutils" remote="michalgr" revision="bpftrace_for_android"/>
 
-  <project name="platform_external_clang8" path="external/clang8" remote="michalgr" revision="bpftrace_for_android"/>
-  <project name="platform_external_llvm8" path="external/llvm8" remote="michalgr" revision="bpftrace_for_android"/>
+  <project name="platform_external_clang8" path="external/clang8" remote="michalgr" revision="bpftrace_for_android_take2"/>
+  <project name="platform_external_llvm8" path="external/llvm8" remote="michalgr" revision="bpftrace_for_android_take2"/>
 
   <project name="bpftrace" path="external/bpftrace" remote="michalgr" revision="bpftrace_for_android"/>
 </manifest>
