@@ -2,7 +2,7 @@
 <manifest>
   <remote fetch="https://github.com/michalgr" name="michalgr"/>
 
-  <project name="platform_external_bison" path="external/bison" remote="michalgr" revision="bpftrace_for_android_take2"/>
+  <project name="platform_external_bison" path="external/bison" remote="michalgr" revision="bpftrace_for_android_take3"/>
   <project name="platform_external_flex" path="external/flex" remote="michalgr" revision="bpftrace_for_android"/>
 
   <remove-project name="platform/external/bcc"/>
