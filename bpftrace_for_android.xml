@@ -14,5 +14,5 @@
   <project name="platform_external_clang8" path="external/bpftrace/clang" remote="michalgr" revision="bpftrace_for_android_take4"/>
   <project name="platform_external_llvm8" path="external/bpftrace/llvm" remote="michalgr" revision="bpftrace_for_android_take4"/>
 
-  <project name="bpftrace" path="external/bpftrace/bpftrace" remote="michalgr" revision="bpftrace_for_android4"/>
+  <project name="bpftrace" path="external/bpftrace/bpftrace" remote="michalgr" revision="bpftrace_for_android5"/>
 </manifest>
