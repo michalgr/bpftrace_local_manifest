@@ -4,14 +4,13 @@
 
   <project name="platform_external_flex" path="external/flex" remote="michalgr" revision="bpftrace_for_android"/>
 
-  <remove-project name="platform/external/bcc"/>
-  <project name="platform_external_bcc" path="external/bcc" remote="michalgr" revision="bpftrace_for_android_take7"/>
-
   <remove-project name="platform/external/elfutils"/>
-  <project name="platform_external_elfutils" path="external/elfutils" remote="michalgr" revision="bpftrace_for_android"/>
+  <project name="platform_external_elfutils" path="external/elfutils" remote="michalgr" revision="bpftrace_for_android_take8"/>
 
   <project name="platform_external_bison" path="external/bpftrace/bison3" remote="michalgr" revision="bpftrace_for_android_take8"/>
   <project name="platform_external_clang8" path="external/bpftrace/clang8" remote="michalgr" revision="bpftrace_for_android_take8"/>
   <project name="platform_external_llvm8" path="external/bpftrace/llvm8" remote="michalgr" revision="bpftrace_for_android_take8"/>
-  <project name="bpftrace" path="external/bpftrace/bpftrace" remote="michalgr" revision="bpftrace_for_android_take7"/>
+  <project name="libbpf" path="external/bpftrace/libbpf" remote="michalgr" revision="bpftrace_for_android_take8"/>
+  <project name="bcc" path="external/bpftrace/bcc" remote="michalgr" revision="bpftrace_for_android_take8"/>
+  <project name="bpftrace" path="external/bpftrace/bpftrace" remote="michalgr" revision="bpftrace_for_android_take8"/>
 </manifest>
