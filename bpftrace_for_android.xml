@@ -9,8 +9,8 @@
 
   <project name="platform_external_bison" path="external/bpftrace/bison3" remote="michalgr" revision="bpftrace_for_android_take8"/>
   <project name="platform_external_clang8" path="external/bpftrace/clang8" remote="michalgr" revision="bpftrace_for_android_take8"/>
-  <project name="platform_external_llvm8" path="external/bpftrace/llvm8" remote="michalgr" revision="bpftrace_for_android_take8"/>
+  <project name="platform_external_llvm8" path="external/bpftrace/llvm8" remote="michalgr" revision="bpftrace_for_android_take9"/>
   <project name="libbpf" path="external/bpftrace/libbpf" remote="michalgr" revision="bpftrace_for_android_take8"/>
   <project name="bcc" path="external/bpftrace/bcc" remote="michalgr" revision="bpftrace_for_android_take9"/>
-  <project name="bpftrace" path="external/bpftrace/bpftrace" remote="michalgr" revision="bpftrace_for_android_take9"/>
+  <project name="bpftrace" path="external/bpftrace/bpftrace" remote="michalgr" revision="bpftrace_for_android_take10"/>
 </manifest>
