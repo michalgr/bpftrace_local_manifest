@@ -4,6 +4,12 @@
 
   <project name="platform_external_flex" path="external/flex" remote="michalgr" revision="bpftrace_for_android"/>
 
+  <remove-project name="platform/external/xz-embedded"/>
+  <project name="platform_external_xz-embedded" path="external/xz-embedded" remote="michalgr" revision="bpftrace_for_android"/>
+
+  <remove-project name="platform/external/toybox"/>
+  <project name="platform_external_toybox" path="external/toybox" remote="michalgr" revision="bpftrace_for_android"/>
+
   <remove-project name="platform/external/elfutils"/>
   <project name="platform_external_elfutils" path="external/elfutils" remote="michalgr" revision="bpftrace_for_android_take9"/>
 
